@@ -15,4 +15,4 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 
-tests
+*[Aghil Wostai](./people/Aghil_wostai.md)
