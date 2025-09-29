@@ -14,5 +14,5 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
-
+* [Wout Philippo](./people/wout_philippo.md)
 tests
