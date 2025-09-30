@@ -14,5 +14,5 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
-
 *[Aghil Wostai](./people/Aghil_wostai.md)
+* [Tijs De Mul](./people/tijs_demul.md)
