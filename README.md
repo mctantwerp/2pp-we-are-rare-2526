@@ -15,4 +15,5 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 
-*[Aghil Wostai](./people/Aghil_wostai.md)
+* [Aghil Wostai](./people/Aghil_wostai.md)
+* [Kyara Windey](./people/kyara_windey.md)
