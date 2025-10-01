@@ -16,7 +16,7 @@ See: [Contributing](./CONTRIBUTING.md)
 
 
 *[Aghil Wostai](./people/Aghil_wostai.md)
-*[Jens Maerevoet](./people/Jens_Maerevoet.md)
+* [Jens Maerevoet](./people/Jens_Maerevoet.md)
 
 
 
