@@ -14,5 +14,5 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
-*[Aghil Wostai](./people/Aghil_wostai.md)
-*[Nicolas Geerinck](./people/nicolas_geerinck.md)
+* [Aghil Wostai](./people/Aghil_wostai.md)
+* [Nicolas Geerinck](./people/nicolas_geerinck.md)
