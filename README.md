@@ -16,3 +16,6 @@ See: [Contributing](./CONTRIBUTING.md)
 
 
 *[Aghil Wostai](./people/Aghil_wostai.md)
+
+
+*[Mathijs Verbeeck](./people/mathijs_verbeeck.md)
