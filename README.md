@@ -15,6 +15,7 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 
+* [Jens Maerevoet](./people/Jens_Maerevoet.md)
 * [Kyara Windey](./people/kyara_windey.md)
 * [Tijs De Mul](./people/tijs_demul.md)
 * [Wout Philippo](./people/wout_philippo.md)
