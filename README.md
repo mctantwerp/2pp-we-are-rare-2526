@@ -14,5 +14,9 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
-* [Aghil Wostai](./people/Aghil_wostai.md)
 * [Nicolas Geerinck](./people/nicolas_geerinck.md)
+* [Jens Maerevoet](./people/Jens_Maerevoet.md)
+* [Kyara Windey](./people/kyara_windey.md)
+* [Tijs De Mul](./people/tijs_demul.md)
+* [Wout Philippo](./people/wout_philippo.md)
+* [Aghil Wostai](./people/Aghil_wostai.md)
