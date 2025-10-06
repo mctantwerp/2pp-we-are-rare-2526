@@ -14,6 +14,9 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
+
+
+* [Mathijs Verbeeck](./people/mathijs_verbeeck.md)
 * [Nicolas Geerinck](./people/nicolas_geerinck.md)
 * [Jens Maerevoet](./people/Jens_Maerevoet.md)
 * [Kyara Windey](./people/kyara_windey.md)
