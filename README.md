@@ -23,3 +23,5 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Tijs De Mul](./people/tijs_demul.md)
 * [Wout Philippo](./people/wout_philippo.md)
 * [Aghil Wostai](./people/Aghil_wostai.md)
+* [Ceyda Yilmaz](./people/Ceyda_Yilmaz.md)
+
